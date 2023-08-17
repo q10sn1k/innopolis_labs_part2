@@ -1,0 +1,5 @@
+venv/
+.idea/
+AirPassengers.csv
+aus_employment.csv
+milk_production.csv
